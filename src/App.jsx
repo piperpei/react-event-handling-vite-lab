@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import '../App.css'
-import PasswordInput from './PasswordInput'
-import SubmitButton from './SubmitButton'
+import './App.css'
+import PasswordInput from './components/PasswordInput'
+import SubmitButton from './components/SubmitButton'
 
 function App() {
 
